@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
-// 
-// Create Date: 05/28/2021 11:54:53 AM
-// Design Name: 
-// Module Name: mux_8_1
-// Project Name: project 5 Mux Demux circuit
-// Target Devices: 
-// Tool Versions: Vivado 2020.2
-// Description: mux 8 to 1
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module mux_8_1(
