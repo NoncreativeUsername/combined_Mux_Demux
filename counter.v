@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
-// 
-// Create Date: 05/28/2021 12:18:05 PM
-// Design Name: 
-// Module Name: counter
-// Project Name: project 5 Mux Demux circuit
-// Target Devices: 
-// Tool Versions: vivado 2020.2
-// Description: creates a counter for the project
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module counter(
     input clk,          //clk input
