@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
-// 
-// Create Date: 05/28/2021 12:45:03 PM
-// Design Name: 
-// Module Name: wrapper
-// Project Name: project 5 Mux Demux circuit
-// Target Devices: 
-// Tool Versions: vivado 2020.2
-// Description: wrapper for mux/ demux circuit
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module wrapper(
     input [7:0] sw,         //switches as data inputs
